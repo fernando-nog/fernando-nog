@@ -50,9 +50,9 @@ As a Tech Lead, I focus on:
 - 💬 **One-on-One** - Regular coaching sessions with team members
 - 📊 **Performance Review** - Supporting career development and goal setting
 
-## 🏢 Current Role
+## 🏢 Current
 
-**Tech Lead @ Estapar** - Urban Mobility Solutions
+- Tech Lead + Senior developer
 - Building robust microservices architecture
 - Ensuring high availability and fault tolerance
 - Leading technical decisions and system design
